@@ -52,3 +52,6 @@ cmake-build-*/
 
 # File-based project format
 *.iws
+
+# DS_STORE
+.DS_Store
